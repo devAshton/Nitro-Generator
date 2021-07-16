@@ -1,5 +1,5 @@
 # Nitro-Generator
-A simple/fast Discord Nitro generator &amp; cgecjer
+A simple/fast Discord Nitro generator & checker
 
 This Generator automatically checks if the code is valid and or not valid. There is an option to automatically notify you when there is a valid code via webhook. Your chances of getting a valid code are rare, but not impossible!
 
