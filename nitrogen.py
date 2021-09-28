@@ -30,11 +30,11 @@ class NitroGen:
         os.system('cls' if os.name == 'nt' else 'clear') 
         if os.name == "nt": 
             print("")
-            ctypes.windll.kernel32.SetConsoleTitleW("Nitro Gen & Checker by Ashton#6666 https://discord.gg/ZK6EMbSFn8") 
+            ctypes.windll.kernel32.SetConsoleTitleW("Nitro Gen & Checker by AAshton#6666") 
         else: 
-            print(f'\33]0;Nitro Gen & Checker by Ashton#6666 https://discord.gg/ZK6EMbSFn8\a', end='', flush=True) 
+            print(f'\33]0;Nitro Gen & Checker by Ashton#6666\a', end='', flush=True) 
 
-        print("""Created by Ashton#6666 https://discord.gg/ZK6EMbSFn8"")
+        print("""Created by Ashton#6666""")
         time.sleep(2)
         self.slowType("A simple Discord Nitro generator & checker", .01) 
         time.sleep(1) 
@@ -69,10 +69,10 @@ class NitroGen:
                 print(f" Error | {url} ") 
 
             if os.name == "nt": 
-                ctypes.windll.kernel32.SetConsoleTitleW(f"Nitro Generator and Checker - {len(valid)} Valid | {invalid} Invalid - by Ashton#0420" https://discord.gg/ZK6EMbSFn8) 
+                ctypes.windll.kernel32.SetConsoleTitleW(f"Nitro Generator and Checker - {len(valid)} Valid | {invalid} Invalid - by Ashton#6666") 
                 print("")
             else:
-                print(f'\33]0;Nitro Generator and Checker - {len(valid)} Valid | {invalid} Invalid - by Ashton#6666 https://discord.gg/ZK6EMbSFn8\a', end='', flush=True) 
+                print(f'\33]0;Nitro Generator and Checker - {len(valid)} Valid | {invalid} Invalid - by Ashton#6666\a', end='', flush=True) 
 
         print(f"""
 Results:
